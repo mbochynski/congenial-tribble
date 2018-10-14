@@ -1,3 +1,3 @@
-export function return5() {
-    return 6;
+export default function return5() {
+  return 6;
 }
